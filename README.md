@@ -7,4 +7,4 @@ QuoteDataRestController - Rest apis provided to get prices.
 
 QuoteDataManager - cache maintained for symbol to price information
 
-Test class also written to verify the functionality
+QuoteDataTest - Test class written to verify the functionality
